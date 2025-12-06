@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Stefano Vecchi</h1>
-<h3 align="center">I am an M.S. student in telecommunications engineering at Sapienza University in Rome, having previously completed my B.S. in electronic engineering from Roma Tre University. Currently, I enjoy working on signal processing applied to multimedia fields such as audio and video, using artificial intelligence techniques. Here, I collect my university and personal projects, always hoping to contribute to those who share my interests. I am not yet a good programmer; in fact, I consider myself rather weak, given my academic background based on a different type of study, but I am gradually working to improve. I am currently learning Python and Matlab, but I also aim to learn C and C++. Additionally, I would like to learn VHDL and Verilog to combine my electronic studies with signal processing and DSP.</h3>
+<h3 align="center">I am an M.S. student in telecommunications engineering at Sapienza University in Rome, having previously completed my B.S. in electronic engineering from Roma Tre University. 
+  Currently, I enjoy working on signal processing applied to multimedia fields such as audio and video, using artificial intelligence techniques. Here, I collect my university and personal projects, always hoping to contribute to those who share my interests. 
+  
+  I am not yet a good programmer; in fact, I consider myself rather weak, given my academic background based on a different type of study, but I am gradually working to improve. 
+  I am currently learning Python and Matlab, but I also aim to learn C and C++. Additionally, I would like to learn VHDL and Verilog to combine my electronic studies with signal processing and DSP.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
